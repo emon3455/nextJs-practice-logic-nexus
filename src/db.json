@@ -36,12 +36,8 @@
                 "/products/levis501_2.jpg",
                 "/products/levis501_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "69.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.5"
-            },
+            "price": 69.99,
+            "ratings": 4.5,
             "features": [
                 "Classic straight leg fit",
                 "100% cotton denim",
@@ -59,12 +55,8 @@
                 "/products/airmax270_2.jpg",
                 "/products/airmax270_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "149.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.7"
-            },
+            "price": 149.99,
+            "ratings": 4.7,
             "features": [
                 "Breathable mesh upper",
                 "Visible Max Air unit",
@@ -82,12 +74,8 @@
                 "/products/baristaexpress_2.jpg",
                 "/products/baristaexpress_3.jpg"
             ],
-            "price": {
-                "$numberInt": "699"
-            },
-            "ratings": {
-                "$numberDouble": "4.9"
-            },
+            "price": 699,
+            "ratings": 4.9,
             "features": [
                 "Built-in conical burr grinder",
                 "Precise espresso extraction",
@@ -105,12 +93,8 @@
                 "/products/ps5_2.jpg",
                 "/products/ps5_3.jpg"
             ],
-            "price": {
-                "$numberInt": "499"
-            },
-            "ratings": {
-                "$numberDouble": "4.8"
-            },
+            "price": 499,
+            "ratings": 4.8,
             "features": [
                 "Ultra-high-speed SSD",
                 "Ray tracing technology",
@@ -128,12 +112,8 @@
                 "/products/tokillamockingbird_2.jpg",
                 "/products/tokillamockingbird_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "12.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.7"
-            },
+            "price": 12.99,
+            "ratings": 4.7,
             "features": [
                 "Classic coming-of-age story",
                 "Southern Gothic setting",
@@ -151,12 +131,8 @@
                 "/products/greatgatsby_2.jpg",
                 "/products/greatgatsby_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "9.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.5"
-            },
+            "price": 9.99,
+            "ratings": 4.5,
             "features": [
                 "Classic American literature",
                 "1920s Jazz Age setting",
@@ -174,12 +150,8 @@
                 "/products/dumbbellset_2.jpg",
                 "/products/dumbbellset_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "79.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.6"
-            },
+            "price": 79.99,
+            "ratings": 4.6,
             "features": [
                 "Versatile weight training",
                 "Durable and non-slip design",
@@ -197,12 +169,8 @@
                 "/products/yogamat_1.jpg",
                 "/products/yogamat_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "29.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.7"
-            },
+            "price": 29.99,
+            "ratings": 4.7,
             "features": [
                 "Non-slip and cushioned surface",
                 "Suitable for all types of yoga",
@@ -220,12 +188,8 @@
                 "/products/resistancebands_2.jpg",
                 "/products/resistancebands_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "19.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.4"
-            },
+            "price": 19.99,
+            "ratings": 4.4,
             "features": [
                 "Versatile strength training",
                 "Durable and stretchable material",
@@ -243,12 +207,8 @@
                 "/products/iphone13pro2.jpg",
                 "/products/iphone13pro3.jpg"
             ],
-            "price": {
-                "$numberInt": "1099"
-            },
-            "ratings": {
-                "$numberDouble": "4.8"
-            },
+            "price": 1099,
+            "ratings": 4.8,
             "features": [
                 "6.1-inch Super Retina XDR display",
                 "A15 Bionic chip",
@@ -266,12 +226,8 @@
                 "/products/galaxys21_2.jpg",
                 "/products/galaxys21_3.jpg"
             ],
-            "price": {
-                "$numberInt": "999"
-            },
-            "ratings": {
-                "$numberDouble": "4.7"
-            },
+            "price": 999,
+            "ratings": 4.7,
             "features": [
                 "Dynamic AMOLED 2X display",
                 "Exynos 2100 processor",
@@ -289,12 +245,8 @@
                 "/products/eosr6_2.jpg",
                 "/products/eosr6_3.jpg"
             ],
-            "price": {
-                "$numberInt": "2499"
-            },
-            "ratings": {
-                "$numberDouble": "4.9"
-            },
+            "price": 2499,
+            "ratings": 4.9,
             "features": [
                 "20.1MP full-frame CMOS sensor",
                 "4K video recording",
@@ -312,12 +264,8 @@
                 "/products/davincicode_2.jpg",
                 "/products/davincicode_3.jpg"
             ],
-            "price": {
-                "$numberDouble": "14.99"
-            },
-            "ratings": {
-                "$numberDouble": "4.3"
-            },
+            "price": 14.99,
+            "ratings": 4.3,
             "features": [
                 "Thrilling mystery",
                 "Symbolism and code-breaking",

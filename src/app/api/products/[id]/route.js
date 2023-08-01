@@ -1,24 +1,24 @@
 import db from "@/db.json";
 
-import { NextResponse } from "next/server"
+import { NextResponse } from "next/server";
 
-export const GET =(request, {params})=>{
+export const GET = (request, { params }) => {
+  
+  const product = db.products.find((product) => product._id === params.id);
 
-    const product = db.products.find(product=> product.id == params.id);
-    if(product){
-        return NextResponse.json(product);
+  if (product) {
+    return NextResponse.json(product);
+  }
+  return NextResponse.json(
+    {
+      message: "Product not found",
+    },
+    {
+      status: 404,
     }
+  );
 
-    return NextResponse.json(
-        {
-            message: "Product not found",
-        },
-        {
-            status: 404,
-        }
-    )
-   
-}
+};
 
 export const PATCH = async(request, {params})=>{
     const body = await request.json();
